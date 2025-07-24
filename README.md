@@ -24,9 +24,6 @@ g(p) = 1 + \sin\left(\frac{\pi p}{2}\right), \quad -2 \leq p \leq 2
   - Learning rate (α)
   - Number of hidden neurons (S₁)
   - Weight/bias initialization
-- Real-time plots for:
-  - Approximation curve
-  - Convergence (MSE vs. Iteration)
 
 
 ### Example Convergence Behavior
